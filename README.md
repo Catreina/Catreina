@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Catreina
 - 👀 I’m interested in virtually everything writing and editing - including coding
 - 🌱 I completed an MFA in English at Emerson College in December 2023
-- 💞️ I’m looking to collaborate on editing of your writing works (which is generally not on GitHub... sadface)
+- 💞️ I’m looking to learn about all things programming
 - 📫 How to reach me: jennifer@catreina.com -- business inquiries: jennifer.snow@mythandverity.com
 
 <!---
